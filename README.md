@@ -1,3 +1,4 @@
+<img width="1855" height="973" alt="Capture" src="https://github.com/user-attachments/assets/37b4dba8-87f9-427a-a066-b2b25b25827f" />
 # Backend Engineer | Booking, Payments & Authentication Systems
 
 I build backend systems focused on authentication, booking flows, payments, and scalable API architecture.
